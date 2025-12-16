@@ -3,6 +3,7 @@
 Desarrollador de software con enfoque principal en el ecosistema Android y una sólida base en programación Java y Kotlin. Me especializo en la creación de aplicaciones móviles escalables, con alto rendimiento y siguiendo principios de Clean Architecture.
 
 🚀 Mi Stack de Desarrollo Móvil
+
 Mi enfoque es crear soluciones de vanguardia utilizando las herramientas más recientes del ecosistema Android y Google:
 - Lenguajes	Kotlin (Primario), Java (Experto), XML.	Modernización de código Java a Kotlin, desarrollo de librerías.
 - UI/Frameworks	Android Jetpack Compose, Android Views (XML), Fragmentos, Custom Views.	Migración de XML a Compose, creación de componentes reutilizables.
@@ -10,8 +11,10 @@ Mi enfoque es crear soluciones de vanguardia utilizando las herramientas más re
 - Conectividad	Retrofit, koin, OkHttp, Ktor, RESTful APIs, Protocol Buffers.	Manejo de ciclos de vida de llamadas API y serialización.
 - Persistencia	Room (SQLite), DataStore, Shared Preferences.	Optimización de consultas DB y manejo de datos asíncrono.
 - Pruebas	JUnit 4/5, Mockito, Espresso, UI Automator.
+- Firebase.
 
 💡 Mis Fortalezas como Desarrollador Java
+
 Mi experiencia en Java me permite ofrecer un valor adicional en proyectos empresariales:
 - Java Core: Dominio de Java SE, colecciones, concurrency (java.util.concurrent), y programación orientada a objetos (OOP) avanzada.
 - Performance: Optimización de código backend y threading en Java para entornos de alto rendimiento.
@@ -19,7 +22,8 @@ Mi experiencia en Java me permite ofrecer un valor adicional en proyectos empres
 - Patrones: Aplicación estricta de patrones de diseño (Factory, Singleton, Observer, etc.) en todos los niveles de la aplicación.
 
 📚 Proyectos Destacados
-Proyectos clave en mi repositorio. ¡Siéntete libre de explorarlos!
+
+Proyectos personales en mi repositorio. ¡Siéntete libre de explorarlos!
 
 MiniPos: Una aplicación en kotlin multiplatform que muestra el uso de Clean Architecture, MVI, Room y Compose en un flujo de trabajo de CI/CD.
 https://github.com/miuuel/minipos
