@@ -1,4 +1,5 @@
-👋 Hola, soy Miguel Véliz
+👋 Hola, soy Miguel Véliz.
+
 Desarrollador de software con enfoque principal en el ecosistema Android y una sólida base en programación Java y Kotlin. Me especializo en la creación de aplicaciones móviles escalables, con alto rendimiento y siguiendo principios de Clean Architecture.
 
 🚀 Mi Stack de Desarrollo Móvil
@@ -6,7 +7,7 @@ Mi enfoque es crear soluciones de vanguardia utilizando las herramientas más re
 - Lenguajes	Kotlin (Primario), Java (Experto), XML.	Modernización de código Java a Kotlin, desarrollo de librerías.
 - UI/Frameworks	Android Jetpack Compose, Android Views (XML), Fragmentos, Custom Views.	Migración de XML a Compose, creación de componentes reutilizables.
 - Arquitectura	Clean Architecture (MVVM, MVI), Modularización, Patrones de Diseño.	Diseño de módulos desacoplados y testing.
-- Conectividad	Retrofit, koin OkHttp, Ktor, RESTful APIs, Protocol Buffers.	Manejo de ciclos de vida de llamadas API y serialización.
+- Conectividad	Retrofit, koin, OkHttp, Ktor, RESTful APIs, Protocol Buffers.	Manejo de ciclos de vida de llamadas API y serialización.
 - Persistencia	Room (SQLite), DataStore, Shared Preferences.	Optimización de consultas DB y manejo de datos asíncrono.
 - Pruebas	JUnit 4/5, Mockito, Espresso, UI Automator.
 
