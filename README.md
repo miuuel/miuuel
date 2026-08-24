@@ -1,6 +1,6 @@
 👋 Hi, I'm Miguel Véliz.
 
-Systems Engineer and Java Backend Developer with 10+ years of experience building enterprise applications, service-oriented architectures (J2EE, MVC), and RESTful APIs. IBM-certified Java Developer, focused on designing and implementing robust, scalable backend solutions.
+Systems Engineer and Java Backend Developer with 10+ years of experience building enterprise applications, service-oriented architectures (J2EE, MVC, N layers), and RESTful APIs. IBM-certified Java Developer, focused on designing and implementing robust, scalable backend solutions.
 
 🚀 My Backend Development Stack
 
