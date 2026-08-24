@@ -1,37 +1,30 @@
-👋 Hola, soy Miguel Véliz.
+👋 Hi, I'm Miguel Véliz.
 
-Desarrollador de software con enfoque principal en el ecosistema Android y una sólida base en programación Java y Kotlin. Me especializo en la creación de aplicaciones móviles escalables, con alto rendimiento y siguiendo principios de Clean Architecture.
+Systems Engineer and Java Backend Developer with 10+ years of experience building enterprise applications, service-oriented architectures (J2EE, MVC), and RESTful APIs. IBM-certified Java Developer, focused on designing and implementing robust, scalable backend solutions.
 
-🚀 Mi Stack de Desarrollo Móvil
+🚀 My Backend Development Stack
 
-Mi enfoque es crear soluciones de vanguardia utilizando las herramientas más recientes del ecosistema Android y Google:
-- Lenguajes	Kotlin (Primario), Java (Experto), XML.	Modernización de código Java a Kotlin, desarrollo de librerías.
-- UI/Frameworks	Android Jetpack Compose, Android Views (XML), Fragmentos, Custom Views.	Migración de XML a Compose, creación de componentes reutilizables.
-- Arquitectura	Clean Architecture (MVVM, MVI), Modularización, Patrones de Diseño.	Diseño de módulos desacoplados y testing.
-- Conectividad	Retrofit, koin, OkHttp, Ktor, RESTful APIs, Protocol Buffers.	Manejo de ciclos de vida de llamadas API y serialización.
-- Persistencia	Room (SQLite), DataStore, Shared Preferences.	Optimización de consultas DB y manejo de datos asíncrono.
-- Pruebas	JUnit 4/5, Mockito, Espresso, UI Automator.
-- Firebase.
+My focus is building reliable, maintainable server-side systems using modern Java tooling and solid architectural principles:
 
-💡 Mis Fortalezas como Desarrollador Java
+* **Languages:** Java (Core/SE, Collections). Advanced object-oriented design and design patterns (Factory, Singleton, Observer, Strategy, Builder, etc.).
+* **Frameworks:** Spring Boot (Spring MVC, Spring Data JPA, Spring Security), classic Spring, Struts.
+* **APIs & Persistence:** Design and development of RESTful APIs, SOAP web services, Hibernate/JPA for data persistence.
+* **Databases:** MySQL, SQL Server, PostgreSQL, DB2, PL/SQL — advanced SQL and relational data modeling.
+* **Build & Dependency Management:** Maven, Gradle.
+* **Testing & Quality:** JUnit, Mockito, unit and integration testing.
+* **DevOps & Version Control:** with GitHub, GitLab, Git.
+* **Methodologies:** Agile / Scrum, cross-functional team collaboration.
+* **Mobile (secondary skill set):** Kotlin Multiplatform (KMP), Jetpack Compose, MVVM, Kony.
 
-Mi experiencia en Java me permite ofrecer un valor adicional en proyectos empresariales:
-- Java Core: Dominio de Java SE, colecciones, concurrency (java.util.concurrent), y programación orientada a objetos (OOP) avanzada.
-- Performance: Optimización de código backend y threading en Java para entornos de alto rendimiento.
-- Android Legado: Experiencia trabajando y refactorizando grandes bases de código Android escritas originalmente en Java.
-- Patrones: Aplicación estricta de patrones de diseño (Factory, Singleton, Observer, etc.) en todos los niveles de la aplicación.
+📚 En Github algunos de nuestro laboratorios para entender el framework Spring — feel free to explore them!
 
-📚 Proyectos Destacados
+**RestAPI** — Library Management System REST API. RESTful API built with **Java** and **Spring Boot** to manage library operations, including book inventories, registered members, and book borrowing/returning workflows.
+🔗 [github.com/miuuel/restapi](https://github.com/miuuel/restapi.git)
+Tags: Java, Spring Boot, MVC, REST API.
 
-Proyectos personales en mi repositorio. ¡Siéntete libre de explorarlos!
+**mvcweb** — Lab based on the Spring MVC pattern, divided into three layers: Model (data structure and business logic / entities-JavaBeans), View (UI and HTML generation using Thymeleaf), and Controller (handles HTTP requests, processes services, updates the Model, and returns the View).
+🔗 [github.com/miuuel/mvcweb](https://github.com/miuuel/mvcweb.git)
+Tags: Java, Spring Boot, Spring MVC, Security.
 
-MiniPos: Una aplicación en kotlin multiplatform que muestra el uso de Clean Architecture, MVI, Room y Compose en un flujo de trabajo de CI/CD.
-https://github.com/miuuel/minipos
-Etiquetas: Kotlin, Compose, MVVM, Modularization.
-
-CryptoStamp: Un microservicio en Java/Spring Boot para almacena un hash criptográfico del documento, demostrando manejo de concurrencia y REST.
-https://github.com/miuuel/CryptoStamp
-Etiquetas: Java, Spring Boot, REST API, Concurrency.
-
-Saludos👋
+Best regards 👋
 
