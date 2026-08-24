@@ -18,11 +18,11 @@ My focus is building reliable, maintainable server-side systems using modern Jav
 
 📚 En Github algunos de nuestro laboratorios para entender el framework Spring — feel free to explore them!
 
-**RestAPI** — Library Management System REST API. RESTful API built with **Java** and **Spring Boot** to manage library operations, including book inventories, registered members, and book borrowing/returning workflows.
+**Rest API** — Library Management System REST API. RESTful API built with **Java** and **Spring Boot** to manage library operations, including book inventories, registered members, and book borrowing/returning workflows.
 🔗 [github.com/miuuel/restapi](https://github.com/miuuel/restapi.git)
 Tags: Java, Spring Boot, MVC, REST API.
 
-**mvcweb** — Lab based on the Spring MVC pattern, divided into three layers: Model (data structure and business logic / entities-JavaBeans), View (UI and HTML generation using Thymeleaf), and Controller (handles HTTP requests, processes services, updates the Model, and returns the View).
+**MVC Web** — Lab based on the Spring MVC pattern, divided into three layers: Model (data structure and business logic / entities-JavaBeans), View (UI and HTML generation using Thymeleaf), and Controller (handles HTTP requests, processes services, updates the Model, and returns the View).
 🔗 [github.com/miuuel/mvcweb](https://github.com/miuuel/mvcweb.git)
 Tags: Java, Spring Boot, Spring MVC, Security.
 
