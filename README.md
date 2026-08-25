@@ -16,7 +16,7 @@ My focus is building reliable, maintainable server-side systems using modern Jav
 * **Methodologies:** Agile / Scrum, cross-functional team collaboration.
 * **Mobile (secondary skill set):** Kotlin Multiplatform (KMP), Jetpack Compose, MVVM, Kony.
 
-📚 En Github algunos de nuestro laboratorios para entender el framework Spring — feel free to explore them!
+📚 On GitHub: some labs to help you understand the Spring framework — feel free to explore them!
 
 **Rest API** — Library Management System REST API. RESTful API built with **Java** and **Spring Boot** to manage library operations, including book inventories, registered members, and book borrowing/returning workflows.
 🔗 [github.com/miuuel/restapi](https://github.com/miuuel/restapi.git)
